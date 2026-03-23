@@ -32,4 +32,5 @@ Conclusion:
 
 The SVM model proved to be the most effective for the given dataset, demonstrating high accuracy and balanced performance across all evaluation metrics.
 
+<img width="721" height="502" alt="image" src="https://github.com/user-attachments/assets/9d67cdcc-de69-4eaa-8438-81b331d577f5" />
 
