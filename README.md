@@ -31,6 +31,9 @@ Assessed models based on accuracy, precision, recall, and F1-score. Generated cl
 Conclusion:
 
 The SVM model proved to be the most effective for the given dataset, demonstrating high accuracy and balanced performance across all evaluation metrics.
+
+
+
 <img width="442" height="572" alt="image" src="https://github.com/user-attachments/assets/48b4238e-ec18-493a-997d-b73204eb826e" />
 <img width="447" height="443" alt="image" src="https://github.com/user-attachments/assets/6e9d7d58-ef28-426f-961e-54994291e99e" />
 <img width="721" height="502" alt="image" src="https://github.com/user-attachments/assets/9d67cdcc-de69-4eaa-8438-81b331d577f5" />
